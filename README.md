@@ -22,7 +22,7 @@
 - header
     - menu
         - 1depth hover effect
-        - 2depth animation 
+        - 2,3 depth animation 
 - visual
     - 3초 이내 전환
     - 1 > 2 > 3 > 1
